@@ -5,7 +5,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 
 - [Awesome Groovy](#awesome-groovy)
-    - [Build Tool](#build-tools-and-setup)
+    - [Build Tool and Setup](#build-tools-and-setup)
     - [Web Frameworks](#web-frameworks)
     - [Database](#database)
     - [Testing](#testing)
@@ -63,6 +63,9 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Vertx](http://vertx.io/) - Vert.x is a lightweight, high performance application platform for the JVM 
 
 # Resources
+
+## Official Site
+*[The Upcoming Beta Home](http://beta.groovy-lang.org/) - Groovy's new home
 
 ## Blogs
 
