@@ -8,6 +8,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
     - [Build Tool and Setup](#build-tools-and-setup)
     - [Web Frameworks](#web-frameworks)
     - [Database](#database)
+    - [Desktop App Framworks](rich-applications)
     - [Testing](#testing)
     - [HTTP](#http)
     - [Concurrency](#concurrency)
@@ -41,6 +42,12 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Gmongo](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver
 
 * [Gstorm](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts
+
+## Rich Application
+
+* [Griffon](http://griffon.codehaus.org/) - Griffon is an application framework for developing desktop applications in the JVM
+
+* [GroovyFx](http://groovyfx.org/) - GroovyFX provides a Groovy binding for JavaFX 2.0.
 
 
 ## HTTP
