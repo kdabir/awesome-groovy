@@ -34,6 +34,10 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 * [Groovy Web Console](http://groovyconsole.appspot.com) - The online groovy console
 
+* [LightTable Plugin](https://github.com/rundis/LightTable-Groovy) - LightTable Support
+
+* [Sublime text 2](https://gist.github.com/kdabir/2203530) - Run groovy scripts from Sublime Text
+
 
 ## Web Frameworks
 
