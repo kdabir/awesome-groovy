@@ -10,6 +10,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
     - [Database](#database)
     - [Desktop App Framworks](rich-applications)
     - [HTTP](#http)
+    - [IDE and Editor Support](#ide-and-editor-support)
     - [Testing](#testing)
     - [Web Frameworks](#web-frameworks)
 - [Resources](#resources)
@@ -24,6 +25,15 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [GVM](http://gvmtool.net/) - the Groovy enVironment Manager
 
 * [Lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates.
+
+## IDE and Editor Support
+
+* [IntelliJ IDEA](http://www.jetbrains.com/idea/) - The Most Intelligent IDE for the Java Platform
+ 
+* [Groovy Grails Tool Suite](http://spring.io/tools/ggts) -  Eclipse-based IDE optimized for developing, debugging and executing Groovy and Grails applications
+
+* [Groovy Web Console](http://groovyconsole.appspot.com) - The online groovy console
+
 
 ## Web Frameworks
 
