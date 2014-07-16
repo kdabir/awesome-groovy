@@ -97,6 +97,9 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 * [Cédric Champeau's blog](http://melix.github.io/blog/)
 
+## Interactive Learning
+
+* [Groovy-Koans](http://groovykoans.org/) - Collection of small exercises in the form of unit tests
 
 # Contributing
 
