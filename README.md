@@ -12,6 +12,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
     - [HTTP](#http)
     - [IDE and Editor Support](#ide-and-editor-support)
     - [Testing](#testing)
+    - [Code analysis](#code-analysis)
     - [Web Frameworks](#web-frameworks)
 - [Resources](#resources)
 - [Contributing](#contributing)
