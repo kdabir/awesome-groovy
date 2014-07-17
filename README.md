@@ -82,6 +82,12 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [RxJava](https://github.com/Netflix/RxJava) - Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 
 * [Vertx](http://vertx.io/) - Vert.x is a lightweight, high performance application platform for the JVM 
+ 
+
+## Code Analysis
+
+* [CodeNarc](http://codenarc.sourceforge.net/) - Static analysis tool for Groovy
+
 
 # Resources
 
