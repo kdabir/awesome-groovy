@@ -96,6 +96,11 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 * [The Upcoming Beta Home](http://beta.groovy-lang.org/) - Groovy's new home
 
+
+## Grails - Web Framework
+
+* [Grails](https://github.com/hitenpratap/awesome-grails) - Grails related all stuff like books, tutorials and tools etc.
+
 ## Blogs
 
 * [Guillaume Laforge's blog](http://glaforge.appspot.com/) 
