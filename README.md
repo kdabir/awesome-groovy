@@ -107,18 +107,18 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Static Web
 
-* [grain](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy
+* [Grain](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy
 
-* [gaiden](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown.
+* [Gaiden](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown.
 
 
 ## Language Utilities
 
-* [functionalgroovy](https://github.com/mperry/functionalgroovy) - Functional programming in Groovy
+* [Functionalgroovy](https://github.com/mperry/functionalgroovy) - Functional programming in Groovy
 
-* [groovy-stream](https://github.com/timyates/groovy-stream) - A collection of classes to give a fluent builder for Streams (Lazy Groovy Generators)
+* [Groovy-stream](https://github.com/timyates/groovy-stream) - A collection of classes to give a fluent builder for Streams (Lazy Groovy Generators)
 
-* [flipside](https://github.com/johnnywey/flipside) - Simple Groovy options library
+* [Flipside](https://github.com/johnnywey/flipside) - Simple Groovy options library
 
 # Resources
 
