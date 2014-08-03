@@ -14,6 +14,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
     - [Testing](#testing)
     - [Code analysis](#code-analysis)
     - [Web Frameworks](#web-frameworks)
+    - [Transpilers](#transpilers)
 - [Resources](#resources)
 - [Contributing](#contributing)
 - [Credits](#credits)
@@ -89,6 +90,10 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 * [CodeNarc](http://codenarc.sourceforge.net/) - Static analysis tool for Groovy
 
+
+## Transpilers
+
+* [Grooscript](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript
 
 # Resources
 
