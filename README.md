@@ -15,6 +15,8 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
     - [Code analysis](#code-analysis)
     - [Web Frameworks](#web-frameworks)
     - [Transpilers](#transpilers)
+    - [Static Web](#static-web)
+    - [Language Utilities](#language-utilities)
 - [Resources](#resources)
 - [Contributing](#contributing)
 - [Credits](#credits)
@@ -101,6 +103,22 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Transpilers
 
 * [Grooscript](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript
+ 
+
+## Static Web
+
+* [grain](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy
+
+* [gaiden](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown.
+
+
+## Language Utilities
+
+* [functionalgroovy](https://github.com/mperry/functionalgroovy) - Functional programming in Groovy
+
+* [groovy-stream](https://github.com/timyates/groovy-stream) - A collection of classes to give a fluent builder for Streams (Lazy Groovy Generators)
+
+* [flipside](https://github.com/johnnywey/flipside) - Simple Groovy options library
 
 # Resources
 
