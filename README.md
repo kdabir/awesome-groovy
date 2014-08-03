@@ -59,6 +59,9 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 * [Gstorm](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts
 
+* [Tyra](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB
+
+
 ## Rich Application
 
 * [Griffon](http://griffon.codehaus.org/) - Griffon is an application framework for developing desktop applications in the JVM
