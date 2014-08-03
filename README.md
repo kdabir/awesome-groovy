@@ -51,7 +51,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 * [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications
 
-* [Spring-Boot](http://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run
+* [Spring-Boot](http://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run"
 
 ## Database
 
