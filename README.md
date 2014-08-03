@@ -76,6 +76,8 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 * [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation
 
+* [Betamax](http://freeside.co/betamax/) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
+
 
 ## Concurrency
 
