@@ -63,6 +63,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 * [Tyra](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB
 
+* [Groovy-liquibase](https://github.com/tlberglund/groovy-liquibase) - Yet Another Groovy DSL for Liquibase
 
 ## Rich Application
 
