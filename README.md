@@ -1,7 +1,7 @@
 Awesome Groovy
 ==============
 
-Curated list of awesome groovy libraries, frameworks and resources. Inspired by many other awesome-* repositories.
+Curated list of awesome groovy libraries, frameworks and resources. Inspired by many other awesome-* repositories. This awesome collection is also available on [Groovy.ZEEF.com](https://groovy.zeef.com/kunal.dabir).
 
 
 - [Awesome Groovy](#awesome-groovy)
