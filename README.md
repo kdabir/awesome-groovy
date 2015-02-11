@@ -165,6 +165,9 @@ to find out repos whose name contains glide
 
     ./awesome.groovy grails
 
+If you are lazy to download the repo, an easy way is:
+
+    groovy "https://git.io/awesome" -l groovy glide
 
 # Credits
 
