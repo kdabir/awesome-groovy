@@ -121,6 +121,8 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 * [Flipside](https://github.com/johnnywey/flipside) - Simple Groovy options library
 
+* [groovy-common-extensions](https://github.com/timyates/groovy-common-extensions) - Lets you add things commonly useful to the Groovy language via the extension system
+
 # Resources
 
 ## Official Site
