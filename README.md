@@ -141,7 +141,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Interactive Learning
 
-* [Groovy-Koans](http://groovykoans.org/) - Collection of small exercises in the form of unit tests
+* [Groovy-Koans](http://nadavc.com/groovykoans/) - Collection of small exercises in the form of unit tests
 
 # Contributing
 
@@ -165,7 +165,7 @@ to find out repos by user 'kdabir' and name contains glide
 
 to find out repos whose name contains glide
 
-    ./awesome.groovy grails
+    ./awesome.groovy glide
 
 If you are lazy to download the repo, an easy way is:
 
