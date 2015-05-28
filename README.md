@@ -92,6 +92,11 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 
+
+## Grails - Web Framework
+
+* [Grails](https://github.com/hitenpratap/awesome-grails) - Grails related all stuff like books, tutorials and tools etc.
+
 ## Blogs
 * [Guillaume Laforge's blog](http://glaforge.appspot.com/) 
 * [MrHaKi's Goodness](http://mrhaki.blogspot.com/) 
