@@ -87,6 +87,11 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 # Resources
 
+## Try Groovy in Browser
+* [Groovy Web Console](http://groovyconsole.appspot.com/)
+* [Groovy Playground](https://groovy-playground.appspot.com/)
+
+
 ## Official Site
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
 * [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github
