@@ -17,6 +17,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
     - [Transpilers](#transpilers)
     - [Static Web](#static-web)
     - [Language Utilities](#language-utilities)
+    - [File System Utilities](#file-system-utilities)
 - [Resources](#resources)
 - [Contributing](#contributing)
 - [Credits](#credits)
@@ -84,6 +85,10 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Groovy-stream](https://github.com/timyates/groovy-stream) - A collection of classes to give a fluent builder for Streams (Lazy Groovy Generators)
 * [Flipside](https://github.com/johnnywey/flipside) - Simple Groovy options library
 * [groovy-common-extensions](https://github.com/timyates/groovy-common-extensions) - Lets you add things commonly useful to the Groovy language via the extension system
+
+## File System Utilities
+* [Groovy-Vfs](https://github.com/ysb33r/groovy-vfs) - A DSL for Groovy on top of Apache VFS2
+* [Directree](https://github.com/kdabir/directree) - A Simple DSL to create Directory Tree with Text Files
 
 # Resources
 
