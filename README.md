@@ -48,7 +48,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Database
 * [Gmongo](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver
 * [Gstorm](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts
-* [Tyra](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB
+* [Tayra](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB
 * [Groovy-liquibase](https://github.com/tlberglund/groovy-liquibase) - Yet Another Groovy DSL for Liquibase
 
 ## Rich Application
