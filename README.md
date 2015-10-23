@@ -68,7 +68,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Concurrency
 * [GPars](http://gpars.codehaus.org/) - The GPars concurrency and parallelism framework for the JVM
-* [RxJava](https://github.com/Netflix/RxJava) - Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+* [RxGroovy](https://github.com/ReactiveX/RxGroovy) - RxJava bindings for Groovy
 * [Vertx](http://vertx.io/) - Vert.x is a lightweight, high performance application platform for the JVM 
 
 ## Code Analysis
