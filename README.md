@@ -115,6 +115,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Guillaume Laforge's blog](http://glaforge.appspot.com/) 
 * [MrHaKi's Goodness](http://mrhaki.blogspot.com/) 
 * [Cédric Champeau's blog](http://melix.github.io/blog/)
+* [Groovy Calamari](http://groovycalamari.com/) - Weekly curated publication about the Groovy Ecosystem 
 
 ## Interactive Learning
 
