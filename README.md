@@ -28,7 +28,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Build tools and Setup
 * [Gradle](http://www.gradle.org/) - A powerful build system for the JVM
-* [SDKMAN](http://sdkman.io) - The Software Development Kit Manager
+* [SDKMAN](http://sdkman.io) - The Software Development Kit Manager (Previously known as GVM)
 * [Lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates.
 
 ## IDE and Editor Support
