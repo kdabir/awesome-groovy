@@ -102,6 +102,12 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 # Resources
 
+## Official Resources
+* [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
+* [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github
+* [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
+* [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
+
 ## Try Groovy in Browser
 * [Groovy Web Console](http://groovyconsole.appspot.com/)
 * [Groovy Playground](https://groovy-playground.appspot.com/)
@@ -112,24 +118,22 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [PLEAC Groovy](http://pleac.sourceforge.net/pleac_groovy/) - Groovy is one of the 3 languages out of 32, having completed 100% of PLEAC examples.
 * [Langref Groovy](http://langref.org/groovy/) - Covers good number of problem solutions in groovy. Help contributing more solutions
 
+## Staying up to date
+* [Groovy Calamari](http://groovycalamari.com/) - Weekly curated publication about the Groovy Ecosystem 
+* [Groovy Weekly](http://glaforge.appspot.com/category/Groovy%20Weekly) - Groovy weekly newsletter
+* [Groovy BLogs](http://groovyblogs.org/) - Interesting collections of Groovy blogs
+* [Grails Diary](http://grydeske.net/news) - Particulary useful for Grails developers
+
 ## Interactive Learning
 * [Groovy-Koans](http://nadavc.com/groovykoans/) - Collection of small exercises in the form of unit tests
-
-## Official Resources
-* [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github
-* [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
-* [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 
 ## Blogs of core committer
 * [Guillaume Laforge's blog](http://glaforge.appspot.com/) 
 * [Cédric Champeau's blog](http://melix.github.io/blog/) 
 
-
 # Contributing
 
 Fork this repository, edit this file and send a pull request.
-
 
 ## Using awesome.groovy script
 
