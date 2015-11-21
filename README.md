@@ -106,21 +106,25 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Groovy Web Console](http://groovyconsole.appspot.com/)
 * [Groovy Playground](https://groovy-playground.appspot.com/)
 
+## Groovy Code Examples
+* [MrHaKi's Goodness](http://mrhaki.blogspot.com/) - Look out for entries titled "Groovy Goodness" , "Grails Goodness", Gradle Goodness"
+* [Groovy Almanac](http://groovy-almanac.org/) - useful code snippets
+* [PLEAC Groovy](http://pleac.sourceforge.net/pleac_groovy/) - Groovy is one of the 3 languages out of 32, having completed 100% of PLEAC examples.
+* [Langref Groovy](http://langref.org/groovy/) - Covers good number of problem solutions in groovy. Help contributing more solutions
 
-## Official Site
+## Interactive Learning
+* [Groovy-Koans](http://nadavc.com/groovykoans/) - Collection of small exercises in the form of unit tests
+
+## Official Resources
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
 * [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
+* [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 
-## Blogs
+## Blogs of core committer
 * [Guillaume Laforge's blog](http://glaforge.appspot.com/) 
-* [MrHaKi's Goodness](http://mrhaki.blogspot.com/) 
-* [Cédric Champeau's blog](http://melix.github.io/blog/)
-* [Groovy Calamari](http://groovycalamari.com/) - Weekly curated publication about the Groovy Ecosystem 
+* [Cédric Champeau's blog](http://melix.github.io/blog/) 
 
-## Interactive Learning
-
-* [Groovy-Koans](http://nadavc.com/groovykoans/) - Collection of small exercises in the form of unit tests
 
 # Contributing
 
