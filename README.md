@@ -121,7 +121,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Staying up to date
 * [Groovy Calamari](http://groovycalamari.com/) - Weekly curated publication about the Groovy Ecosystem 
 * [Groovy Weekly](http://glaforge.appspot.com/category/Groovy%20Weekly) - Groovy weekly newsletter
-* [Groovy BLogs](http://groovyblogs.org/) - Interesting collections of Groovy blogs
+* [Groovy Blogs](http://groovyblogs.org/) - Interesting collections of Groovy blogs, ususally updated frequently
 * [Grails Diary](http://grydeske.net/news) - Particulary useful for Grails developers
 
 ## Interactive Learning
