@@ -131,6 +131,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Blogs of core committer
 * [Guillaume Laforge's blog](http://glaforge.appspot.com/) 
 * [Cédric Champeau's blog](http://melix.github.io/blog/) 
+* [Jochen Theodorou's blog](http://blackdragsview.blogspot.com/)
 
 # Contributing
 
