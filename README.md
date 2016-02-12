@@ -70,7 +70,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Betamax](http://freeside.co/betamax/) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 
 ## Concurrency
-* [GPars](http://gpars.codehaus.org/) - The GPars concurrency and parallelism framework for the JVM
+* [GPars](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM
 * [RxGroovy](https://github.com/ReactiveX/RxGroovy) - RxJava bindings for Groovy
 * [Vertx](http://vertx.io/) - Vert.x is a lightweight, high performance application platform for the JVM 
 
