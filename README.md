@@ -8,7 +8,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
     - [Build Tool and Setup](#build-tools-and-setup)
     - [Concurrency](#concurrency)
     - [Database](#database)
-    - [Desktop App Framworks](rich-applications)
+    - [Desktop App Framworks](#rich-applications)
     - [HTTP](#http)
     - [IDE and Editor Support](#ide-and-editor-support)
     - [Testing](#testing)
@@ -23,8 +23,6 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 - [Resources](#resources)
 - [Contributing](#contributing)
 - [Credits](#credits)
-
-
 
 ## Build tools and Setup
 * [Gradle](http://www.gradle.org/) - A powerful build system for the JVM
@@ -56,11 +54,11 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Rich Application
 
-* [Griffon](http://griffon.codehaus.org/) - Griffon is an application framework for developing desktop applications in the JVM
+* [Griffon](http://griffon-framework.org/) - Griffon is an application framework for developing desktop applications in the JVM
 * [GroovyFx](http://groovyfx.org/) - GroovyFX provides a Groovy binding for JavaFX 2.0.
 
 ## HTTP
-* [Http-Builder](http://groovy.codehaus.org/modules/http-builder/home.html) - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM
+* [Http-Builder](https://github.com/jgritman/httpbuilder) - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM
 * [AsyncRestClient](https://github.com/eginez/AsyncRestClient) - Combine the power of RESTClient with RxGroovy for async http calls
 * [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy
 
