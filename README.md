@@ -51,6 +51,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Tayra](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB
 * [Groovy-liquibase](https://github.com/tlberglund/groovy-liquibase) - Yet Another Groovy DSL for Liquibase
 * [Effigy](https://github.com/cjstehno/effigy) - Groovy annotation-driven JDBC row mapping framework
+* [elasticsearch-groovy](https://github.com/elastic/elasticsearch-groovy) - Elasticsearch Groovy client
 
 ## Rich Application
 
