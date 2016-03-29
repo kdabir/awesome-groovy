@@ -8,7 +8,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
     - [Build Tool and Setup](#build-tools-and-setup)
     - [Concurrency](#concurrency)
     - [Database](#database)
-    - [Desktop App Framworks](#rich-applications)
+    - [Desktop App Frameworks](#rich-applications)
     - [HTTP](#http)
     - [IDE and Editor Support](#ide-and-editor-support)
     - [Testing](#testing)
