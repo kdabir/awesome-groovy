@@ -66,7 +66,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Testing
 * [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
 * [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation
-* [Betamax](http://freeside.co/betamax/) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
+* [Betamax](http://betamax.software/) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 
 ## Concurrency
 * [GPars](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM
