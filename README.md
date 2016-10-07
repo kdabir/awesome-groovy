@@ -20,6 +20,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
     - [File System Utilities](#file-system-utilities)
     - [File Format DSL](#file-format-dsl)
     - [Scripting Tools](#scripting-tools)
+    - [Rule Engines](#rules-engines)
 - [Resources](#resources)
 - [Contributing](#contributing)
 - [Credits](#credits)
@@ -103,6 +104,10 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
  
 ## Scripting Tools
  * [sshoogr](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
+ 
+## Rule Engines
+* [grules](https://github.com/zhaber/grules) - rule engine for data preprocessing
+* [n-cube](https://github.com/jdereg/n-cube) - a Rules Engine, Decision Table, Decision Tree, Templating Engine, and Enterprise Spreadsheet, built as a hyper-space.
 
 # Resources
 
