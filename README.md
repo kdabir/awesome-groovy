@@ -20,7 +20,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
     - [File System Utilities](#file-system-utilities)
     - [File Format DSL](#file-format-dsl)
     - [Scripting Tools](#scripting-tools)
-    - [Rule Engines](#rules-engines)
+    - [Rule Engines](#rule-engines)
 - [Resources](#resources)
 - [Contributing](#contributing)
 - [Credits](#credits)
