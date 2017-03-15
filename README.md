@@ -68,18 +68,19 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
 * [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation
 * [Betamax](http://betamax.software/) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
+* [HTTP Mock Server](https://github.com/TouK/http-mock-server) - HTTP Mock Server allows to mock HTTP request using groovy closures.
 
 ## Concurrency
 * [GPars](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM
 * [RxGroovy](https://github.com/ReactiveX/RxGroovy) - RxJava bindings for Groovy
-* [Vertx](http://vertx.io/) - Vert.x is a lightweight, high performance application platform for the JVM 
+* [Vertx](http://vertx.io/) - Vert.x is a lightweight, high performance application platform for the JVM
 
 ## Code Analysis
 * [CodeNarc](http://codenarc.sourceforge.net/) - Static analysis tool for Groovy
 
 ## Transpilers
 * [Grooscript](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript
- 
+
 ## Static Web
 * [Grain](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy
 * [Gaiden](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown.
@@ -90,7 +91,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Flipside](https://github.com/johnnywey/flipside) - Simple Groovy options library
 * [groovy-common-extensions](https://github.com/timyates/groovy-common-extensions) - Lets you add things commonly useful to the Groovy language via the extension system
 * [groovy-extra-list-behaviour](https://github.com/dnahodil/groovy-extra-list-behaviour) - Adds extra methods to Lists via the extension system
-* [GPerfUtils](https://github.com/gperfutils) - Groovy-based tools verifying performance of your code 
+* [GPerfUtils](https://github.com/gperfutils) - Groovy-based tools verifying performance of your code
   * [gprof](https://github.com/gperfutils/gprof) - The profiling module for Groovy
   * [gbench](https://github.com/gperfutils/gbench) - The benchmarking module for Groovy
 
@@ -101,10 +102,10 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## File Format DSL
 * [document-builder](https://github.com/craigburke/document-builder) - A document builder for Groovy for PDF or Word documents.
 * [spreadsheet-builder](https://github.com/MetadataRegistry/spreadsheet-builder) - Spreadsheet builder provides convenient way how to create MS Excel OfficeOpenXML Documents (XSLX)
- 
+
 ## Scripting Tools
  * [sshoogr](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
- 
+
 ## Rule Engines
 * [grules](https://github.com/zhaber/grules) - rule engine for data preprocessing
 * [n-cube](https://github.com/jdereg/n-cube) - a Rules Engine, Decision Table, Decision Tree, Templating Engine, and Enterprise Spreadsheet, built as a hyper-space.
@@ -128,7 +129,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Langref Groovy](http://langref.org/groovy/) - Covers good number of problem solutions in groovy. Help contributing more solutions
 
 ## Staying up to date
-* [Groovy Calamari](http://groovycalamari.com/) - Weekly curated publication about the Groovy Ecosystem 
+* [Groovy Calamari](http://groovycalamari.com/) - Weekly curated publication about the Groovy Ecosystem
 * [Groovy Weekly](http://glaforge.appspot.com/category/Groovy%20Weekly) - Groovy weekly newsletter
 * [Groovy Blogs](http://groovyblogs.org/) - Interesting collections of Groovy blogs, ususally updated frequently
 * [Grails Diary](http://grydeske.net/news) - Particulary useful for Grails developers
@@ -137,8 +138,8 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Groovy-Koans](http://nadavc.com/groovykoans/) - Collection of small exercises in the form of unit tests
 
 ## Blogs of core committer
-* [Guillaume Laforge's blog](http://glaforge.appspot.com/) 
-* [Cédric Champeau's blog](http://melix.github.io/blog/) 
+* [Guillaume Laforge's blog](http://glaforge.appspot.com/)
+* [Cédric Champeau's blog](http://melix.github.io/blog/)
 * [Jochen Theodorou's blog](http://blackdragsview.blogspot.com/)
 
 # Contributing
@@ -149,7 +150,7 @@ Fork this repository, edit this file and send a pull request.
 
 You can use the `awesome.groovy` script to search awesome projects on github and generate the entry prepoulated with project name, repo url and description in markdown format. All you need to do is place it under right group in the markdown list in `README.md`.
 
-### Examples 
+### Examples
 
 to find out repos where language is groovy and whose name contain gpars and
 
