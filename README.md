@@ -135,7 +135,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Grails Diary](http://grydeske.net/news) - Particulary useful for Grails developers
 
 ## Interactive Learning
-* [Groovy-Koans](http://nadavc.com/groovykoans/) - Collection of small exercises in the form of unit tests
+* [Groovy-Koans](http://nadavc.github.io/groovykoans/) - Collection of small exercises in the form of unit tests
 
 ## Blogs of core committer
 * [Guillaume Laforge's blog](http://glaforge.appspot.com/)
