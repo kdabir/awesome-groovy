@@ -77,6 +77,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Code Analysis
 * [CodeNarc](http://codenarc.sourceforge.net/) - Static analysis tool for Groovy
+* [Sonar-Groovy](https://github.com/SonarQubeCommunity/sonar-groovy) - SonarQube Groovy plugin
 
 ## Transpilers
 * [Grooscript](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript
