@@ -61,6 +61,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## HTTP
 * [Http-Builder](https://github.com/jgritman/httpbuilder) - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM
+* [Http Builder NG](https://github.com/http-builder-ng/http-builder-ng) - Http Builder NG is a modern Groovy DSL for making http requests.
 * [AsyncRestClient](https://github.com/eginez/AsyncRestClient) - Combine the power of RESTClient with RxGroovy for async http calls
 * [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy
 
