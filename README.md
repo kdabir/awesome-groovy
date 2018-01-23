@@ -104,6 +104,8 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## File Format DSL
 * [document-builder](https://github.com/craigburke/document-builder) - A document builder for Groovy for PDF or Word documents.
 * [spreadsheet-builder](https://github.com/MetadataRegistry/spreadsheet-builder) - Spreadsheet builder provides convenient way how to create MS Excel OfficeOpenXML Documents (XSLX)
+* [GroovyCSV](http://xlson.com/groovycsv/) - A simple CSV parsing library for groovy 
+
 
 ## Scripting Tools
  * [sshoogr](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
