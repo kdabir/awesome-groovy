@@ -14,7 +14,7 @@ def (debug, query) = new CliBuilder(usage : "./awesome.groovy [options] project-
 }
 def counter = 1
 def s = ""
-slurp("https://api.github.com/search/repositories?q=${query}&per_page=10", debug).items*.with {
+slurp("https://api.github.com/search/repositories?q=${query}&per_page=20", debug).items*.with {
     s = sprintf('%03d', counter++)
     println s + " - [$name]($html_url) - $description"
 }
