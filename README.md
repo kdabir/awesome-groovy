@@ -51,7 +51,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Gstorm](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts
 * [Tayra](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB
 * [Groovy-liquibase](https://github.com/tlberglund/groovy-liquibase) - Yet Another Groovy DSL for Liquibase
-* [Effigy](https://github.com/cjstehno/effigy) - Groovy annotation-driven JDBC row mapping framework
+* [Effigy](https://github.com/cjstehno/effigy) - Groovy annotation-driven JDBC row mapping framework (abandoned)
 * [elasticsearch-groovy](https://github.com/elastic/elasticsearch-groovy) - Elasticsearch Groovy client
 
 ## Rich Application
@@ -61,7 +61,8 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## HTTP
 * [Http-Builder](https://github.com/jgritman/httpbuilder) - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM
-* [Http Builder NG](https://github.com/http-builder-ng/http-builder-ng) - Http Builder NG is a modern Groovy DSL for making http requests.
+* [HTTP Builder NG](https://github.com/http-builder-ng/http-builder-ng) - HTTP Builder NG is a modern Groovy DSL for making http requests.
+* [HTTP Builder NG Gradle Plugin](https://github.com/http-builder-ng/gradle-http-plugin) - Gradle plugin providing HTTP Builder NG support in a Gradle build configuration.
 * [AsyncRestClient](https://github.com/eginez/AsyncRestClient) - Combine the power of RESTClient with RxGroovy for async http calls
 * [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy
 
@@ -70,6 +71,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation
 * [Betamax](http://betamax.software/) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 * [HTTP Mock Server](https://github.com/TouK/http-mock-server) - HTTP Mock Server allows to mock HTTP request using groovy closures.
+* [Ersatz Mock Server](https://github.com/cjstehno/ersatz) - A simple and expressive simulated HTTP server for testing client code with configurable responses.
 
 ## Concurrency
 * [GPars](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM
@@ -104,7 +106,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## File Format DSL
 * [document-builder](https://github.com/craigburke/document-builder) - A document builder for Groovy for PDF or Word documents.
 * [spreadsheet-builder](https://github.com/MetadataRegistry/spreadsheet-builder) - Spreadsheet builder provides convenient way how to create MS Excel OfficeOpenXML Documents (XSLX)
-* [GroovyCSV](http://xlson.com/groovycsv/) - A simple CSV parsing library for groovy 
+* [GroovyCSV](http://xlson.com/groovycsv/) - A simple CSV parsing library for groovy
 
 
 ## Scripting Tools
