@@ -45,7 +45,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications
 * [gServ](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.).
 * [Spring-Boot](http://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run"
-* [Micronaut](https://micronaut.io) - A brand new microservices framework created by the Grails team
+* [Micronaut](http://micronaut.io/) - A brand new microservices framework created by the Grails team
 
 ## Database
 * [Gmongo](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver
