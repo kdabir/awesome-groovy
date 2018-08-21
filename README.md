@@ -26,9 +26,9 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 - [Credits](#credits)
 
 ## Build tools, setup and CI
-* [Gradle](http://www.gradle.org/) - A powerful build system for the JVM
+* [Gradle](https://www.gradle.org/) - A powerful build system for the JVM
 * [GMavenPlus](https://github.com/groovy/GMavenPlus) - A rewrite of GMaven, a Maven plugin for Groovy
-* [SDKMAN](http://sdkman.io) - The Software Development Kit Manager (Previously known as GVM)
+* [SDKMAN](https://sdkman.io) - The Software Development Kit Manager (Previously known as GVM)
 * [Lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates.
 * [Jenkins job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs
 * [travis-groovy](https://github.com/kdabir/travis-groovy) - execute groovy scripts on travis-ci
@@ -47,7 +47,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Glide](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap
 * [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications
 * [gServ](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.).
-* [Spring-Boot](http://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run"
+* [Spring-Boot](https://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run"
 * [Micronaut](http://micronaut.io/) - A brand new microservices framework created by the Grails team
 
 ## Database
@@ -73,7 +73,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Testing
 * [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
 * [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation
-* [Betamax](http://betamax.software/) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
+* [Betamax](https://github.com/betamaxteam/betamax) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 * [HTTP Mock Server](https://github.com/TouK/http-mock-server) - HTTP Mock Server allows to mock HTTP request using groovy closures.
 * [Ersatz Mock Server](https://github.com/cjstehno/ersatz) - A simple and expressive simulated HTTP server for testing client code with configurable responses.
 * [Dru](https://agorapulse.github.io/dru/) - Data Reconstruction Utility loads data from external sources JSON, YML for easy testing GORM, DynamoDB or just plain POJOs.
@@ -82,11 +82,11 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Concurrency
 * [GPars](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM
 * [RxGroovy](https://github.com/ReactiveX/RxGroovy) - RxJava bindings for Groovy
-* [Vertx](http://vertx.io/) - Vert.x is a lightweight, high performance application platform for the JVM
+* [Vertx](https://vertx.io/) - Vert.x is a lightweight, high performance application platform for the JVM
 
 ## Code Analysis
 * [CodeNarc](http://codenarc.sourceforge.net/) - Static analysis tool for Groovy
-* [Sonar-Groovy](https://github.com/SonarQubeCommunity/sonar-groovy) - SonarQube Groovy plugin
+* [Sonar-Groovy](https://github.com/pmayweg/sonar-groovy) - SonarQube Groovy plugin
 
 ## Transpilers
 * [Grooscript](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript
@@ -157,7 +157,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Conferences
 * [Greachconf](http://greachconf.com)
-* [GR8Conf Europe](http://gr8conf.eu)
+* [GR8Conf Europe](https://gr8conf.eu)
 * [GR8Conf USA](http://gr8conf.us)
 
 # Contributing
