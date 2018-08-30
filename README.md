@@ -139,6 +139,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Groovy Almanac](http://groovy-almanac.org/) - useful code snippets
 * [PLEAC Groovy](http://pleac.sourceforge.net/pleac_groovy/) - Groovy is one of the 3 languages out of 32, having completed 100% of PLEAC examples.
 * [Langref Groovy](http://langref.org/groovy/) - Covers good number of problem solutions in groovy. Help contributing more solutions
+* [RosettaCode by Groovy](http://www.rosettacode.org/wiki/Category:Groovy) - Around 1000 Programming Task in nearly 700 Languagas. Nearly 400 examples in Groovy.
 
 ## Staying up to date
 * [Groovy Calamari](http://groovycalamari.com/) - Weekly curated publication about the Groovy Ecosystem

@@ -12,9 +12,11 @@ def (debug, query) = new CliBuilder(usage : "./awesome.groovy [options] project-
         else [ d,[arguments(),"in:name", i(f){"forks:true"},i(u){"user:$u"},i(l){"language:$l"}].findAll().flatten().join("+") ]    
     }    
 }
-
-slurp("https://api.github.com/search/repositories?q=${query}&per_page=10", debug).items*.with {
-    println "* [$name]($html_url) - $description"
+def counter = 1
+def s = ""
+slurp("https://api.github.com/search/repositories?q=${query}&per_page=20", debug).items*.with {
+    s = sprintf('%03d', counter++)
+    println s + " - [$name]($html_url) - $description"
 }
 
 def i(s,c){ if(s) c() }
