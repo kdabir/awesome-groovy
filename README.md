@@ -35,7 +35,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## IDE and Editor Support
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/) - The Most Intelligent IDE for the Java Platform
-* [Groovy Grails Tool Suite](http://spring.io/tools/ggts) -  Eclipse-based IDE optimized for developing, debugging and executing Groovy and Grails applications
+* [Groovy Grails Tool Suite](https://marketplace.eclipse.org/content/groovygrails-tool-suite-ggts-eclipse) -  Eclipse-based IDE optimized for developing, debugging and executing Groovy and Grails applications
 * [Groovy Web Console](http://groovyconsole.appspot.com) - The online Groovy console
 * [LightTable Plugin](https://github.com/rundis/LightTable-Groovy) - LightTable Support
 * [Sublime Text 2/3](https://gist.github.com/kdabir/2203530) - Run groovy scripts from Sublime Text
@@ -138,12 +138,10 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [MrHaKi's Goodness](http://mrhaki.blogspot.com/) - Look out for entries titled "Groovy Goodness" , "Grails Goodness", Gradle Goodness"
 * [Groovy Almanac](http://groovy-almanac.org/) - useful code snippets
 * [PLEAC Groovy](http://pleac.sourceforge.net/pleac_groovy/) - Groovy is one of the 3 languages out of 32, having completed 100% of PLEAC examples.
-* [Langref Groovy](http://langref.org/groovy/) - Covers good number of problem solutions in groovy. Help contributing more solutions
 
 ## Staying up to date
 * [Groovy Calamari](http://groovycalamari.com/) - Weekly curated publication about the Groovy Ecosystem
 * [Groovy Weekly](http://glaforge.appspot.com/category/Groovy%20Weekly) - Groovy weekly newsletter
-* [Groovy Blogs](http://groovyblogs.org/) - Interesting collections of Groovy blogs, ususally updated frequently
 * [Grails Diary](http://grydeske.net/news) - Particulary useful for Grails developers
 * [Groovy Podcast](https://nofluffjuststuff.com/groovypodcast) - Ken Kousen and Baruch Sadogursky discuss news and insight from the Groovy ecosystem.
 
