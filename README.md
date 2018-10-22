@@ -115,7 +115,9 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [GroovyCSV](http://xlson.com/groovycsv/) - A simple CSV parsing library for groovy
 
 ## Scripting Tools
- * [sshoogr](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
+* [EasyDokkaPlugin](https://github.com/Vorlonsoft/EasyDokkaPlugin) - Gradle script plugin to generate documentation by Dokka documentation engine for Java and Kotlin
+* [GradleMavenPush](https://github.com/Vorlonsoft/GradleMavenPush) - Gradle script plugin to upload Gradle Artifacts to Maven repositories
+* [sshoogr](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
 
 
 ## Rule Engines
