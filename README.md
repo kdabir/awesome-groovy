@@ -104,6 +104,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [GPerfUtils](https://github.com/gperfutils) - Groovy-based tools verifying performance of your code
   * [gprof](https://github.com/gperfutils/gprof) - The profiling module for Groovy
   * [gbench](https://github.com/gperfutils/gbench) - The benchmarking module for Groovy
+* [Fuzzy-CSV](https://github.com/kayr/fuzzy-csv) - Simple lightweight data processing library, useful for shaping/processing your tabular data before its consumed by another service or library.
 
 ## File System Utilities
 * [Groovy-Vfs](https://github.com/ysb33r/groovy-vfs) - A DSL for Groovy on top of Apache VFS2
