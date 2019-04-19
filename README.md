@@ -118,6 +118,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Scripting Tools
 * [EasyDokkaPlugin](https://github.com/Vorlonsoft/EasyDokkaPlugin) - Gradle script plugin to generate documentation by Dokka documentation engine for Java and Kotlin
 * [GradleMavenPush](https://github.com/Vorlonsoft/GradleMavenPush) - Gradle script plugin to upload Gradle Artifacts to Maven repositories
+* [picocli](https://github.com/remkop/picocli) - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more.
 * [sshoogr](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
 
 
