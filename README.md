@@ -32,6 +32,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates.
 * [Jenkins job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs
 * [travis-groovy](https://github.com/kdabir/travis-groovy) - execute groovy scripts on travis-ci
+* [Android Groovy Shell](https://play.google.com/store/apps/details?id=com.tambapps.android.grooidshell) - code and execute groovy scripts directly on your smartphone
 
 ## IDE and Editor Support
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/) - The Most Intelligent IDE for the Java Platform
