@@ -70,6 +70,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [HTTP Builder NG Gradle Plugin](https://github.com/http-builder-ng/gradle-http-plugin) - Gradle plugin providing HTTP Builder NG support in a Gradle build configuration.
 * [AsyncRestClient](https://github.com/eginez/AsyncRestClient) - Combine the power of RESTClient with RxGroovy for async http calls
 * [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy
+* [Hyperpoet](https://github.com/tambapps/hyperpoet) - Easy-to-use and customizable HTTP client for Groovy
 
 ## Testing
 * [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
