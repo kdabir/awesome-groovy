@@ -150,6 +150,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Groovy Weekly](http://glaforge.appspot.com/category/Groovy%20Weekly) - Groovy weekly newsletter
 * [Grails Diary](https://grydeske.dk/news/index) - Particulary useful for Grails developers
 * [Groovy Podcast](https://nofluffjuststuff.com/groovypodcast) - Ken Kousen and Baruch Sadogursky discuss news and insight from the Groovy ecosystem.
+* [Explore Groovy](https://kandi.openweaver.com/explore/groovy) - Discover a curated list of popular & new libraries, top authors, trending kits, discussions, tutorials & learning resources on kandi
 
 ## Interactive Learning
 * [Groovy-Koans](http://nadavc.github.io/groovykoans/) - Collection of small exercises in the form of unit tests
