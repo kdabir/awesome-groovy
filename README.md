@@ -45,14 +45,15 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Web Frameworks
 
 * [Grails](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language
+* [Micronaut](http://micronaut.io/) - A brand new microservices framework created by the Grails team
+* [Spring-Boot](https://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run". Use Groovy as your coding language.
 * [Gaelyk](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java
 * [Glide](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap
 * [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications
 * [gServ](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.).
-* [Spring-Boot](https://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run"
-* [Micronaut](http://micronaut.io/) - A brand new microservices framework created by the Grails team
 
 ## Database
+* [GORM](https://gorm.grails.org) - Grails ORM, but can be used stand-alone without Grails
 * [Gmongo](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver
 * [Gstorm](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts
 * [Tayra](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB
@@ -161,9 +162,10 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Grails Team blog](http://grailsblog.objectcomputing.com/)
 
 ## Conferences
-* [Greachconf](http://greachconf.com)
-* [GR8Conf Europe](https://gr8conf.eu)
-* [GR8Conf USA](http://gr8conf.us)
+* [Community Over Code](https://communityovercode.org/) - have a Groovy Track
+* [Greachconf](http://greachconf.com) (discontinued)
+* [GR8Conf Europe](https://gr8conf.eu) (discontinued)
+* [GR8Conf USA](http://gr8conf.us) (discontinued)
 
 # Contributing
 
