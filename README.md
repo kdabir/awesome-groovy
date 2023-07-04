@@ -146,6 +146,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Groovy Code Examples
 * [MrHaKi's Goodness](http://mrhaki.blogspot.com/) - Look out for entries titled "Groovy Goodness" , "Grails Goodness", Gradle Goodness"
 * [PLEAC Groovy](http://pleac.sourceforge.net/pleac_groovy/) - Groovy is one of the 3 languages out of 32, having completed 100% of PLEAC examples.
+* [Programming-Idioms](https://programming-idioms.org/) - Standard ways of coding standard things. Many of the snippets have a Groovy implementation.
 
 ## Staying up to date
 * [Groovy Calamari](http://groovycalamari.com/) - Weekly curated publication about the Groovy Ecosystem
