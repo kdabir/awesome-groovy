@@ -140,7 +140,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 
 ## Try Groovy in Browser
-* [Groovy Web Console](http://groovyconsole.appspot.com/)
+* [Groovy Web Console](https://gwc-experiment.appspot.com/)
 * [Groovy Playground](https://groovy-playground.appspot.com/)
 
 ## Groovy Code Examples
