@@ -111,6 +111,9 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
   * [gbench](https://github.com/gperfutils/gbench) - The benchmarking module for Groovy
 * [Fuzzy-CSV](https://github.com/kayr/fuzzy-csv) - Simple lightweight data processing library, useful for shaping/processing your tabular data before its consumed by another service or library.
 
+## Data Processing
+* [Nextflow](https://www.nextflow.io/) - Groovy DSL for Data-driven computational pipelines
+
 ## File System Utilities
 * [Groovy-Vfs](https://github.com/ysb33r/groovy-vfs) - A DSL for Groovy on top of Apache VFS2
 * [Directree](https://github.com/kdabir/directree) - A Simple DSL to create Directory Tree with Text Files
