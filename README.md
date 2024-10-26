@@ -1,8 +1,7 @@
 Awesome Groovy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ==============
 
-Curated list of awesome groovy libraries, frameworks and resources. Inspired by many other awesome-* repositories. This awesome collection is also available on [Groovy.ZEEF.com](https://groovy.zeef.com/kunal.dabir).
-
+Curated list of awesome groovy libraries, frameworks and resources. Inspired by many other awesome-* repositories.
 
 - [Awesome Groovy](#awesome-groovy)
     - [Build Tools, Setup and CI](#build-tools-setup-and-ci)
